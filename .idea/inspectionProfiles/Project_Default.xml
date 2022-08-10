@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.*" />
+          <option value="omborhona.userapp.views.Logout" />
+          <option value="Blog.asosiy.models.User" />
+          <option value="Blog.asosiy.views.Logout" />
+          <option value="Blog.asosiy.views.request" />
+          <option value="netflix.asosiy.views.filters" />
+          <option value="exem.app1.models.*" />
+          <option value="market.sotuvapp.models.models" />
+          <option value="market.sotuvapp.views.Accaunt" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
